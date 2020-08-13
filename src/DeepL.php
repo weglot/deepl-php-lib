@@ -97,8 +97,8 @@ class DeepL
         'PL',
         'RU',
         'ZH',
-        'JA'
-
+        'JA',
+        'PT-BR',
     );
 
     /**
